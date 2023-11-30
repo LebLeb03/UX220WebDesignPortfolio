@@ -1,0 +1,478 @@
+.frame1280px-aboutpage-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.frame1280px-aboutpage-frame1280px-aboutpage {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.frame1280px-aboutpage-navigation {
+  width: 1280px;
+  height: 80px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.frame1280px-aboutpage-navnavmenu {
+  top: 26px;
+  left: 969px;
+  width: 261px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame1280px-aboutpage-text {
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 400;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1280px-aboutpage-text02 {
+  left: 101px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 400;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1280px-aboutpage-text04 {
+  left: 192px;
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 400;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1280px-aboutpage-logo {
+  top: 25px;
+  left: 50px;
+  width: 49px;
+  height: 30px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame1280px-aboutpage-text06 {
+  color: var(--dl-color-default-black);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 600;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1280px-aboutpage-aboutheader {
+  gap: 10px;
+  display: flex;
+  padding: 120px 320px;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(249, 230, 240, 1);
+}
+.frame1280px-aboutpage-aboutheader1 {
+  gap: 70px;
+  width: 780px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.frame1280px-aboutpage-persona {
+  gap: 20px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.frame1280px-aboutpage-image {
+  width: 195px;
+  height: 195px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame1280px-aboutpage-image1 {
+  top: 0px;
+  left: 0px;
+  width: 195px;
+  height: 195px;
+  position: absolute;
+}
+.frame1280px-aboutpage-text08 {
+  color: var(--dl-color-default-black);
+  width: 195px;
+  height: auto;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 700;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1280px-aboutpage-text09 {
+  font-weight: 700;
+  text-decoration: UNDERLINE;
+}
+.frame1280px-aboutpage-text14 {
+  color: var(--dl-color-default-black);
+  width: 515px;
+  height: auto;
+  font-size: 17px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 700;
+  line-height: 27px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1280px-aboutpage-text15 {
+  font-weight: 700;
+}
+.frame1280px-aboutpage-body {
+  gap: 10px;
+  display: flex;
+  padding: 120px 320px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.frame1280px-aboutpage-bodytext {
+  gap: 60px;
+  width: 880px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.frame1280px-aboutpage-text17 {
+  gap: 60px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.frame1280px-aboutpage-text18 {
+  color: rgba(43, 43, 43, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 36px;
+}
+.frame1280px-aboutpage-bodytext1 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.frame1280px-aboutpage-coloredtext {
+  gap: 10px;
+  display: flex;
+  padding: 5px 0;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 147, 121, 1);
+}
+.frame1280px-aboutpage-text20 {
+  color: rgba(246, 220, 233, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 600;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1280px-aboutpage-coloredtext1 {
+  gap: 10px;
+  display: flex;
+  padding: 5px 0;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame1280px-aboutpage-text22 {
+  color: rgba(43, 43, 43, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 400;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1280px-aboutpage-coloredtext2 {
+  gap: 10px;
+  display: flex;
+  padding: 5px 0;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 147, 121, 1);
+}
+.frame1280px-aboutpage-text24 {
+  color: rgba(246, 220, 233, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 600;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1280px-aboutpage-coloredtext3 {
+  gap: 10px;
+  display: flex;
+  padding: 5px 0;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame1280px-aboutpage-text26 {
+  color: rgba(43, 43, 43, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 400;
+  line-height: 26px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.frame1280px-aboutpage-footer {
+  gap: 10px;
+  display: flex;
+  padding: 0 100px 70px;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.frame1280px-aboutpage-footerinfo {
+  gap: 70px;
+  display: flex;
+  padding: 70px 0 0;
+  align-items: center;
+  border-color: rgba(0, 0, 0, 0.20000000298023224);
+  border-style: solid;
+  border-width: 2px 0 0;
+  flex-direction: column;
+}
+.frame1280px-aboutpage-footerinfo1 {
+  gap: 190px;
+  display: flex;
+  align-items: flex-start;
+}
+.frame1280px-aboutpage-contactinfo {
+  gap: 60px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.frame1280px-aboutpage-footermessage {
+  gap: 40px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.frame1280px-aboutpage-text31 {
+  color: var(--dl-color-default-black);
+  width: 360px;
+  height: auto;
+  text-align: left;
+  line-height: 42px;
+}
+.frame1280px-aboutpage-text33 {
+  color: rgba(45, 45, 45, 1);
+  width: 360px;
+  height: auto;
+  text-align: left;
+  line-height: 27px;
+}
+.frame1280px-aboutpage-socialicons {
+  width: 232px;
+  height: 36px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.frame1280px-aboutpage-link {
+  display: contents;
+}
+.frame1280px-aboutpage-nstagram {
+  top: 0px;
+  left: 147px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+}
+.frame1280px-aboutpage-link1 {
+  display: contents;
+}
+.frame1280px-aboutpage-behance {
+  top: 0px;
+  left: 196px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+}
+.frame1280px-aboutpage-link2 {
+  display: contents;
+}
+.frame1280px-aboutpage-dribbble {
+  top: 0px;
+  left: 98px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+}
+.frame1280px-aboutpage-link3 {
+  display: contents;
+}
+.frame1280px-aboutpage-facebook {
+  top: 0px;
+  left: 49px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+}
+.frame1280px-aboutpage-link4 {
+  display: contents;
+}
+.frame1280px-aboutpage-discord {
+  top: 0px;
+  left: 0px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+}
+.frame1280px-aboutpage-textfields {
+  gap: 40px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.frame1280px-aboutpage-textfields1 {
+  gap: 20px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.frame1280px-aboutpage-textinput-desktop {
+  gap: 10px;
+  color: rgba(45, 45, 45, 1);
+  width: 530px;
+  display: flex;
+  padding: 21px 30px;
+  font-size: 17px;
+  text-align: left;
+  align-items: flex-start;
+  flex-shrink: 0;
+  font-family: Epilogue;
+  font-weight: 400;
+  background-color: rgba(243, 243, 243, 1);
+}
+.frame1280px-aboutpage-textinput-desktop1 {
+  gap: 10px;
+  color: rgba(45, 45, 45, 1);
+  width: 530px;
+  display: flex;
+  padding: 21px 30px;
+  font-size: 17px;
+  text-align: left;
+  align-items: flex-start;
+  flex-shrink: 0;
+  font-family: Epilogue;
+  font-weight: 400;
+  background-color: rgba(243, 243, 243, 1);
+}
+.frame1280px-aboutpage-textinput-desktop2 {
+  gap: 10px;
+  color: rgba(45, 45, 45, 1);
+  width: 530px;
+  display: flex;
+  padding: 21px 30px;
+  font-size: 17px;
+  text-align: left;
+  align-items: flex-start;
+  flex-shrink: 0;
+  font-family: Epilogue;
+  font-weight: 400;
+  background-color: rgba(243, 243, 243, 1);
+}
+.frame1280px-aboutpage-button {
+  gap: 10px;
+  display: flex;
+  padding: 25px 82px;
+  align-items: flex-start;
+  background-color: var(--dl-color-default-black);
+}
+.frame1280px-aboutpage-text35 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  font-size: 20px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Epilogue;
+  font-weight: 600;
+  line-height: 30px;
+  font-stretch: normal;
+  text-decoration: none;
+}
